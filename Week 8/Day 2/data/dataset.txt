@@ -1,0 +1,29 @@
+Artificial intelligence is the field of computer science focused on creating systems that can perform tasks that normally require human intelligence.
+
+Machine learning is a subset of artificial intelligence that allows computers to learn patterns from data without being explicitly programmed for every task.
+
+Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data.
+
+Natural language processing enables computers to understand, process, and generate human language.
+
+Computer vision enables machines to interpret and understand visual information from images and videos.
+
+Generative AI refers to artificial intelligence systems that can generate new content such as text, images, audio, video, and code.
+
+Large language models are neural network models trained on large collections of text to understand and generate human-like language.
+
+Retrieval augmented generation combines information retrieval with language generation. It retrieves relevant information from a knowledge base and provides it to a language model as context.
+
+Vector databases store numerical representations called embeddings and allow similarity-based searches over those representations.
+
+ChromaDB is an open-source vector database commonly used for storing and retrieving embeddings in AI applications.
+
+LangChain is a framework for developing applications powered by language models.
+
+RAG systems can reduce hallucinations by grounding model responses in retrieved information.
+
+Embeddings represent text as numerical vectors so that semantically similar pieces of text can be found using vector similarity.
+
+MLflow is an open-source platform used to manage machine learning experiments, models, and deployments.
+
+MLOps combines machine learning development with software engineering and operations practices to improve reliability and reproducibility.
