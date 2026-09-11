@@ -1,0 +1,6 @@
+haystack-ai
+pypdf
+sentence-transformers
+sentence-transformers-haystack
+fastapi
+uvicorn[standard]

@@ -1,0 +1,20 @@
+BM25 RETRIEVAL EVALUATION
+=========================
+
+Number of documents: 5
+Number of questions: 10
+
+Q1: Correct / Incorrect
+Q2: Correct / Incorrect
+Q3: Correct / Incorrect
+Q4: Correct / Incorrect
+Q5: Correct / Incorrect
+Q6: Correct / Incorrect
+Q7: Correct / Incorrect
+Q8: Correct / Incorrect
+Q9: Correct / Incorrect
+Q10: Correct / Incorrect
+
+Correct retrievals: __ / 10
+
+BM25 Precision: __%

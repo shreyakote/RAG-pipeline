@@ -1,0 +1,22 @@
+HAYSTACK RETRIEVAL COMPARISON
+=============================
+
+Dataset:
+5 PDF documents
+
+Evaluation:
+10 questions
+
+BM25:
+Correct retrievals: __ / 10
+Precision: __%
+
+Dense Retrieval:
+Correct retrievals: __ / 10
+Precision: __%
+
+Improvement:
+__ percentage points
+
+Best Retriever:
+________________
