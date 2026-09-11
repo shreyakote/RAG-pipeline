@@ -1,0 +1,15 @@
+Artificial Intelligence Research
+
+Artificial intelligence is a field of computer science focused on creating systems that can perform tasks that normally require human intelligence.
+
+Retrieval-Augmented Generation, or RAG, combines information retrieval with a language model. The system first retrieves relevant documents and then provides those documents as context to the language model.
+
+Vector databases store numerical representations called embeddings. These embeddings allow systems to find documents that are semantically similar to a user's question.
+
+ChromaDB is a vector database that can be used to store document embeddings and perform similarity search.
+
+Large language models can generate natural language answers from retrieved context. Local models such as Llama can run on a user's computer through tools such as Ollama.
+
+MLflow can be used to track experiments, parameters, metrics, and model-related information.
+
+Ragas can be used to evaluate RAG systems using metrics such as faithfulness, answer relevancy, context precision, and context recall.
